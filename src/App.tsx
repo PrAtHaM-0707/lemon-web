@@ -98,7 +98,15 @@ function PrivacyPolicy() {
         <h2 className="text-2xl font-semibold mt-8 mb-4">8. Contact Us:</h2>
         <p className="mb-6">
           If you have any questions or concerns about this Privacy Policy or how your data is handled, 
-          please contact us at our [Support Server]((https://discord.gg/fjQz6cmB4W)).
+          please contact us at our <a 
+  href="https://discord.gg/fjQz6cmB4W" 
+  target="_blank" 
+  rel="noopener noreferrer" 
+  className="text-yellow-600 hover:text-yellow-700"
+>
+  Support Server
+</a>
+.
         </p>
 
         <p className="font-semibold">
