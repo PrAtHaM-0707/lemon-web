@@ -58,8 +58,24 @@ function PrivacyPolicy() {
         <h2 className="text-2xl font-semibold mt-8 mb-4">4. Data Retention:</h2>
         <ul className="list-disc pl-6 mb-6">
           <li>We retain data only as long as necessary for the functionality of Lemonify.</li>
-          <li>Users may request deletion of personal data where applicable by joining our [Support Server Link](https://discord.gg/fjQz6cmB4W) or contacting us via [Email](mittalpratham313@gmail.com).</li>
-        </ul>
+         <li>
+  Users may request deletion of personal data where applicable by joining our{' '}
+  <a 
+    href="https://discord.gg/fjQz6cmB4W" 
+    target="_blank" 
+    rel="noopener noreferrer" 
+    className="text-yellow-600 hover:text-yellow-700"
+  >
+    Support Server
+  </a> or contacting us via{' '}
+  <a 
+    href="mailto:mittalpratham313@gmail.com" 
+    className="text-yellow-600 hover:text-yellow-700"
+  >
+    Email
+  </a>.
+</li>
+</ul>
 
         <h2 className="text-2xl font-semibold mt-8 mb-4">5. User Rights:</h2>
         <ul className="list-disc pl-6 mb-6">
